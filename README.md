@@ -1,2 +1,2 @@
 # DWM
-Experiment done during dwm lab in FCRIT '24
+Experiment done during DWM lab in FCRIT '24
